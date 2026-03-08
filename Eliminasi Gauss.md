@@ -119,3 +119,7 @@ x_1 = 6.5
 $$
 #### f. Hasil Akhir
 $$(x_1 = 6.5, x_2 = 1, x_3 = 1.5,x_4 = 4, x_5 = 2 )$$
+
+#### g. Uji coba dengan sage cell
+
+![alt text](image.png)
